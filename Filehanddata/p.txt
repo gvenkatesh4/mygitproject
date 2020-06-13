@@ -1,0 +1,6 @@
+Detailsdata [id=101, product=phone, cost=20000
+]Detailsdata [id=102, product=watch, cost=10000
+]Detailsdata [id=104, product=ac, cost=68000
+]Detailsdata [id=100, product=tv, cost=2500
+]Detailsdata [id=103, product=fan, cost=5200
+]
